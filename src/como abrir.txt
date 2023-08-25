@@ -1,0 +1,7 @@
+abra o terminal no gitbash 
+entre na pasta 
+npm create vite@latest 
+entre em react, js
+cria a pasta, joga no vs
+terminal npm install 
+npm run dev no terminal normal para abrir o site 
